@@ -1,0 +1,410 @@
+[
+  {
+    "idx": 0,
+    "full_note_name": "A0",
+    "note_name": "A",
+    "file": "39148__jobro__piano-ff-001.wav"
+  },
+  {
+    "idx": 1,
+    "full_note_name": "A#0/Bb0",
+    "note_name": "A#/Bb",
+    "file": "39149__jobro__piano-ff-002.wav"
+  },
+  {
+    "idx": 2,
+    "full_note_name": "B0",
+    "note_name": "B",
+    "file": "39150__jobro__piano-ff-003.wav"
+  },
+  {
+    "idx": 3,
+    "full_note_name": "C1",
+    "note_name": "C",
+    "file": "39151__jobro__piano-ff-004.wav"
+  },
+  {
+    "idx": 4,
+    "full_note_name": "C#1/Db1",
+    "note_name": "C#/Db",
+    "file": "39152__jobro__piano-ff-005.wav"
+  },
+  {
+    "idx": 5,
+    "full_note_name": "D1",
+    "note_name": "D",
+    "file": "39153__jobro__piano-ff-006.wav"
+  },
+  {
+    "idx": 6,
+    "full_note_name": "D#1/Eb1",
+    "note_name": "D#/Eb",
+    "file": "39154__jobro__piano-ff-007.wav"
+  },
+  {
+    "idx": 7,
+    "full_note_name": "E1",
+    "note_name": "E",
+    "file": "39155__jobro__piano-ff-008.wav"
+  },
+  {
+    "idx": 8,
+    "full_note_name": "F1",
+    "note_name": "F",
+    "file": "39156__jobro__piano-ff-009.wav"
+  },
+  {
+    "idx": 9,
+    "full_note_name": "F#1/Gb1",
+    "note_name": "F#/Gb",
+    "file": "39157__jobro__piano-ff-010.wav"
+  },
+  {
+    "idx": 10,
+    "full_note_name": "G1",
+    "note_name": "G",
+    "file": "39158__jobro__piano-ff-011.wav"
+  },
+  {
+    "idx": 11,
+    "full_note_name": "G#1/Ab1",
+    "note_name": "G#/Ab",
+    "file": "39159__jobro__piano-ff-012.wav"
+  },
+  {
+    "idx": 12,
+    "full_note_name": "A1",
+    "note_name": "A",
+    "file": "39160__jobro__piano-ff-013.wav"
+  },
+  {
+    "idx": 13,
+    "full_note_name": "A#1/Bb1",
+    "note_name": "A#/Bb",
+    "file": "39161__jobro__piano-ff-014.wav"
+  },
+  {
+    "idx": 14,
+    "full_note_name": "B1",
+    "note_name": "B",
+    "file": "39162__jobro__piano-ff-015.wav"
+  },
+  {
+    "idx": 15,
+    "full_note_name": "C2",
+    "note_name": "C",
+    "file": "39163__jobro__piano-ff-016.wav"
+  },
+  {
+    "idx": 16,
+    "full_note_name": "C#2/Db2",
+    "note_name": "C#/Db",
+    "file": "39164__jobro__piano-ff-017.wav"
+  },
+  {
+    "idx": 17,
+    "full_note_name": "D2",
+    "note_name": "D",
+    "file": "39165__jobro__piano-ff-018.wav"
+  },
+  {
+    "idx": 18,
+    "full_note_name": "D#2/Eb2",
+    "note_name": "D#/Eb",
+    "file": "39166__jobro__piano-ff-019.wav"
+  },
+  {
+    "idx": 19,
+    "full_note_name": "E2",
+    "note_name": "E",
+    "file": "39167__jobro__piano-ff-020.wav"
+  },
+  {
+    "idx": 20,
+    "full_note_name": "F2",
+    "note_name": "F",
+    "file": "39168__jobro__piano-ff-021.wav"
+  },
+  {
+    "idx": 21,
+    "full_note_name": "F#2/Gb2",
+    "note_name": "F#/Gb",
+    "file": "39169__jobro__piano-ff-022.wav"
+  },
+  {
+    "idx": 22,
+    "full_note_name": "G2",
+    "note_name": "G",
+    "file": "39170__jobro__piano-ff-023.wav"
+  },
+  {
+    "idx": 23,
+    "full_note_name": "G#2/Ab2",
+    "note_name": "G#/Ab",
+    "file": "39171__jobro__piano-ff-024.wav"
+  },
+  {
+    "idx": 24,
+    "full_note_name": "A2",
+    "note_name": "A",
+    "file": "39172__jobro__piano-ff-025.wav"
+  },
+  {
+    "idx": 25,
+    "full_note_name": "A#2/Bb2",
+    "note_name": "A#/Bb",
+    "file": "39173__jobro__piano-ff-026.wav"
+  },
+  {
+    "idx": 26,
+    "full_note_name": "B2",
+    "note_name": "B",
+    "file": "39174__jobro__piano-ff-027.wav"
+  },
+  {
+    "idx": 27,
+    "full_note_name": "C3",
+    "note_name": "C",
+    "file": "39175__jobro__piano-ff-028.wav"
+  },
+  {
+    "idx": 28,
+    "full_note_name": "C#3/Db3",
+    "note_name": "C#/Db",
+    "file": "39176__jobro__piano-ff-029.wav"
+  },
+  {
+    "idx": 29,
+    "full_note_name": "D3",
+    "note_name": "D",
+    "file": "39177__jobro__piano-ff-030.wav"
+  },
+  {
+    "idx": 30,
+    "full_note_name": "D#3/Eb3",
+    "note_name": "D#/Eb",
+    "file": "39178__jobro__piano-ff-031.wav"
+  },
+  {
+    "idx": 31,
+    "full_note_name": "E3",
+    "note_name": "E",
+    "file": "39179__jobro__piano-ff-032.wav"
+  },
+  {
+    "idx": 32,
+    "full_note_name": "F3",
+    "note_name": "F",
+    "file": "39180__jobro__piano-ff-033.wav"
+  },
+  {
+    "idx": 33,
+    "full_note_name": "F#3/Gb3",
+    "note_name": "F#/Gb",
+    "file": "39181__jobro__piano-ff-034.wav"
+  },
+  {
+    "idx": 34,
+    "full_note_name": "G3",
+    "note_name": "G",
+    "file": "39182__jobro__piano-ff-035.wav"
+  },
+  {
+    "idx": 35,
+    "full_note_name": "G#3/Ab3",
+    "note_name": "G#/Ab",
+    "file": "39183__jobro__piano-ff-036.wav"
+  },
+  {
+    "idx": 36,
+    "full_note_name": "A3",
+    "note_name": "A",
+    "file": "39184__jobro__piano-ff-037.wav"
+  },
+  {
+    "idx": 37,
+    "full_note_name": "A#3/Bb3",
+    "note_name": "A#/Bb",
+    "file": "39185__jobro__piano-ff-038.wav"
+  },
+  {
+    "idx": 38,
+    "full_note_name": "B3",
+    "note_name": "B",
+    "file": "39186__jobro__piano-ff-039.wav"
+  },
+  {
+    "idx": 39,
+    "full_note_name": "C4",
+    "note_name": "C",
+    "file": "39187__jobro__piano-ff-040.wav"
+  },
+  {
+    "idx": 40,
+    "full_note_name": "C#4/Db4",
+    "note_name": "C#/Db",
+    "file": "39188__jobro__piano-ff-041.wav"
+  },
+  {
+    "idx": 41,
+    "full_note_name": "D4",
+    "note_name": "D",
+    "file": "39189__jobro__piano-ff-042.wav"
+  },
+  {
+    "idx": 42,
+    "full_note_name": "D#4/Eb4",
+    "note_name": "D#/Eb",
+    "file": "39190__jobro__piano-ff-043.wav"
+  },
+  {
+    "idx": 43,
+    "full_note_name": "E4",
+    "note_name": "E",
+    "file": "39191__jobro__piano-ff-044.wav"
+  },
+  {
+    "idx": 44,
+    "full_note_name": "F4",
+    "note_name": "F",
+    "file": "39193__jobro__piano-ff-045.wav"
+  },
+  {
+    "idx": 45,
+    "full_note_name": "F#4/Gb4",
+    "note_name": "F#/Gb",
+    "file": "39194__jobro__piano-ff-046.wav"
+  },
+  {
+    "idx": 46,
+    "full_note_name": "G4",
+    "note_name": "G",
+    "file": "39195__jobro__piano-ff-047.wav"
+  },
+  {
+    "idx": 47,
+    "full_note_name": "G#4/Ab4",
+    "note_name": "G#/Ab",
+    "file": "39196__jobro__piano-ff-048.wav"
+  },
+  {
+    "idx": 48,
+    "full_note_name": "A4",
+    "note_name": "A",
+    "file": "39197__jobro__piano-ff-049.wav"
+  },
+  {
+    "idx": 49,
+    "full_note_name": "A#4/Bb4",
+    "note_name": "A#/Bb",
+    "file": "39198__jobro__piano-ff-050.wav"
+  },
+  {
+    "idx": 50,
+    "full_note_name": "B4",
+    "note_name": "B",
+    "file": "39199__jobro__piano-ff-051.wav"
+  },
+  {
+    "idx": 51,
+    "full_note_name": "C5",
+    "note_name": "C",
+    "file": "39200__jobro__piano-ff-052.wav"
+  },
+  {
+    "idx": 52,
+    "full_note_name": "C#5/Db5",
+    "note_name": "C#/Db",
+    "file": "39201__jobro__piano-ff-053.wav"
+  },
+  {
+    "idx": 53,
+    "full_note_name": "D5",
+    "note_name": "D",
+    "file": "39202__jobro__piano-ff-054.wav"
+  },
+  {
+    "idx": 54,
+    "full_note_name": "D#5/Eb5",
+    "note_name": "D#/Eb",
+    "file": "39203__jobro__piano-ff-055.wav"
+  },
+  {
+    "idx": 55,
+    "full_note_name": "E5",
+    "note_name": "E",
+    "file": "39204__jobro__piano-ff-056.wav"
+  },
+  {
+    "idx": 56,
+    "full_note_name": "F5",
+    "note_name": "F",
+    "file": "39205__jobro__piano-ff-057.wav"
+  },
+  {
+    "idx": 57,
+    "full_note_name": "F#5/Gb5",
+    "note_name": "F#/Gb",
+    "file": "39206__jobro__piano-ff-058.wav"
+  },
+  {
+    "idx": 58,
+    "full_note_name": "G5",
+    "note_name": "G",
+    "file": "39207__jobro__piano-ff-059.wav"
+  },
+  {
+    "idx": 59,
+    "full_note_name": "G#5/Ab5",
+    "note_name": "G#/Ab",
+    "file": "39208__jobro__piano-ff-060.wav"
+  },
+  {
+    "idx": 60,
+    "full_note_name": "A5",
+    "note_name": "A",
+    "file": "39209__jobro__piano-ff-061.wav"
+  },
+  {
+    "idx": 61,
+    "full_note_name": "A#5/Bb5",
+    "note_name": "A#/Bb",
+    "file": "39210__jobro__piano-ff-062.wav"
+  },
+  {
+    "idx": 62,
+    "full_note_name": "B5",
+    "note_name": "B",
+    "file": "39211__jobro__piano-ff-063.wav"
+  },
+  {
+    "idx": 63,
+    "full_note_name": "C6",
+    "note_name": "C",
+    "file": "39212__jobro__piano-ff-064.wav"
+  },
+  {
+    "idx": 64,
+    "full_note_name": "C#6/Db6",
+    "note_name": "C#/Db",
+    "file": "39213__jobro__piano-ff-085.wav"
+  },
+  {
+    "idx": 65,
+    "full_note_name": "D6",
+    "note_name": "D",
+    "file": "39214__jobro__piano-ff-086.wav"
+  },
+  {
+    "idx": 66,
+    "full_note_name": "D#6/Eb6",
+    "note_name": "D#/Eb",
+    "file": "39215__jobro__piano-ff-087.wav"
+  },
+  {
+    "idx": 67,
+    "full_note_name": "E6",
+    "note_name": "E",
+    "file": "39216__jobro__piano-ff-088.wav"
+  }
+]
